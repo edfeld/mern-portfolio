@@ -120,13 +120,13 @@ Media query sm, xs
 
  @media screen and (min-width: 360px) {
     .project {
-        width: 360px;
+        width: 340px;
         height: 412px;
     }
 }
  @media screen and (min-width: 576px) {
     .project {
-        width: 360px;
+        width: 340px;
         height: 412px;
     }
 }
