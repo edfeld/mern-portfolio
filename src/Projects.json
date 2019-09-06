@@ -15,7 +15,7 @@
     "name": "Clicky Game",
     "summary": "A memory game written with React, Express, Node",
     "image": "assets/images/ClickyGame240x170.png",
-    "projectLink": "https://edfeld.github.io/clicky-game/",
+    "projectLink": "https://ancient-garden-36857.herokuapp.com/",
     "githubLink": "https://github.com/edfeld/clicky-game",
     "altText": "Image of the Clicky Game",
     "isHide": 0,
